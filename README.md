@@ -1,1 +1,1 @@
-# practice-machine-learning
+機械学習講座（前編）を学習しているjupyter labのファイルを、練習としてGitにpushする用のレポジトリ
